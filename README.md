@@ -1,5 +1,5 @@
 # PwC-Switzerland-Power-BI-virtual-Intership-project
-In this internship project we use powerful Data Analytics tools to help solve business problems for our clients.  We identify patterns, risks and opportunities in data, to work more efficiently. We will be able to clearly visualise the value  and turn  data it into convincing, actionable insights.
+In this internship project, we utilized Data Analytics tools to address business challenges. We analyzed Call Center Data for customer and agent trends, examined Customer Retention data for demographic insights, and assessed Diversity & Inclusion data for gender balance. Using Power BI, we defined relevant KPIs for each dataset.
 ## Datasets used in this Project 
 Three daatsets are use in this project.
 * 1.Call Center dataset
